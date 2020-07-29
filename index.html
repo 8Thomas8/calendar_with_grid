@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <link href="style.css" rel="stylesheet">
+    <title>Calendrier</title>
+</head>
+<body>
+
+<div class="calendar-container">
+
+    <div class="calendar-container__nav">
+        <button id="backButton">Précédent</button>
+
+        <div class="calendar-container__currentMonthYear">
+            <span id="currentMonth"></span>
+            <span id="currentYear"></span>
+        </div>
+
+        <button id="nextButton">Suivant</button>
+    </div>
+
+    <div class="calendar-container__days-grid">
+        <span>Lundi</span>
+        <span>Mardi</span>
+        <span>Mercredi</span>
+        <span>Jeudi</span>
+        <span>Vendredi</span>
+        <span>Samedi</span>
+        <span>Dimanche</span>
+    </div>
+
+    <div id="date-grid" class="calendar-container__date-grid">
+    </div>
+</div>
+
+</body>
+
+<script src="app.js">
+</script>
+</html>
