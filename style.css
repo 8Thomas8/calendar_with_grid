@@ -18,10 +18,10 @@
 }
 
 .calendar-container__days-grid {
-    padding: 10px 0 0 0;
+    padding: 10px 0 0;
     border-bottom: 1px #185ec4 solid;
 }
 
 .calendar-container__date-grid {
-    padding: 10px 0 0 0;
+    padding: 10px 0 0;
 }
