@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/8thomas8/calendar_with_grid/badge)](https://www.codefactor.io/repository/github/8thomas8/calendar_with_grid)
+
 # CALENDRIER
 
 ## TECHNO
